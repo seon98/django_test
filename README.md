@@ -1,1 +1,0 @@
-이곳은 Django_test 연습용 branch 입니다.
